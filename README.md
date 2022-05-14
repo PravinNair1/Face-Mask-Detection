@@ -4,3 +4,5 @@ pandemic and the identification of facial masks can be imperative to ensure publ
 masks in video footages is a challenging task primarily due to the fact that the masks themselves behave as
 occlusions to face detection algorithms due to the absence of facial landmarks in the masked regions. In this
 work, we propose an approach for detecting facial masks in videos using deep learning.
+ADDED THIS LINE
+
